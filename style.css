@@ -1,18 +1,24 @@
 body 
 {
-    background-image: url("https://media1.tenor.com/images/837072ca19e3c5cebea76e2693f3100d/tenor.gif?itemid=11796793");
+    background-image: url("img/s1.gif");
     background-size: cover;
     background-repeat: no-repeat; 
+ 
 } 
 h1 {
 	text-align: center;
 	color: #ffffff;
-	font-size: 40px;
+	font-size: 50px;
 }
 h2 {
 	text-align: left;
 	color: #ffffff;
-	font-size: 20px;
+	font-size: 30px;
+}
+h3 {
+	text-align: left;
+	color: #ffffff;
+	font-size: 25px;
 {
 
 
