@@ -2,7 +2,7 @@ body
 {
     background-image: url("img/s1.gif");
     background-size: cover;
-    background-repeat: no-repeat; 
+    background-attachment: fixed; 
  
 } 
 h1 {
