@@ -1,4 +1,4 @@
-body 
+.b1
 {
     background-image: url("img/s1.gif");
     background-size: cover;
@@ -21,7 +21,16 @@ h3 {
 	text-align: left;
 	color: #ffffff;
 	font-size: 25px;
+}
+.row
 {
 
+background-color: #2189f1;
+text-align: left;
+}
+.col-sm
+{
+	border: 1px solid green;
+}
 
 
