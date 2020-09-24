@@ -32,4 +32,13 @@ text-align: left;
 	border: 1px solid green;
 }
 
+.link
+{
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 20px;
+	position: relative;
 
+	color: #fff;
+	text-decoration: none;
+	transition: color .3s linear;
